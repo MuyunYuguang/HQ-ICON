@@ -1,5 +1,3 @@
-url=https://github.com/MuyunYuguang/HQ-ICON/blob/main/.github/workflows/pages.yml
-contents:
 name: Deploy to GitHub Pages
 
 on:
